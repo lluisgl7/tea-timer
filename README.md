@@ -1,7 +1,8 @@
 # Automatic Tea Timer
 This is a simple gadget that will help you prepare your teas and infusions. Just put the tea bag (or infuser) and the cup with hot water in place and select the desired steeping time. The Tea Timer will automatically infuse the tea during the selected time and will notify you with a beep when your drink is ready.
 
-See it in action: https://youtu.be/dda5ccRVNXM
+See it in action: https://youtu.be/dda5ccRVNXM  
+Thingiverse link: http://www.thingiverse.com/thing:1049056
 
 ![](https://github.com/lluisgl7/tea-timer/blob/master/img/IMG_1.JPG)
 
