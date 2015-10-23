@@ -3,6 +3,7 @@ This is a simple gadget that will help you prepare your teas and infusions. Just
 
 See it in action: https://youtu.be/dda5ccRVNXM  
 Thingiverse link: http://www.thingiverse.com/thing:1049056
+Instructables link: http://www.instructables.com/id/Automatic-Tea-Timer
 
 ![](https://github.com/lluisgl7/tea-timer/blob/master/img/IMG_1.JPG)
 
