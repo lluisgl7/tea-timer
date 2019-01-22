@@ -5,6 +5,8 @@ See it in action: https://youtu.be/dda5ccRVNXM  <br>
 Thingiverse link: http://www.thingiverse.com/thing:1049056 <br>
 Instructables link: http://www.instructables.com/id/Automatic-Tea-Timer
 
+3ders.org article link: http://www.3ders.org/articles/20151012-make-perfect-tea-every-time-with-this-3d-printed-automatic-tea-timer.html
+
 ![](https://github.com/lluisgl7/tea-timer/blob/master/img/IMG_1.JPG)
 
 ## Printed parts
